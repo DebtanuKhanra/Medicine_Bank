@@ -1,0 +1,17 @@
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\bin\Debug\Medicine_Bank.exe.config
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\bin\Debug\Medicine_Bank.exe
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\bin\Debug\Medicine_Bank.pdb
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.csproj.AssemblyReference.cache
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.HOME.resources
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.Registration.resources
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.Properties.Resources.resources
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.csproj.GenerateResource.cache
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.exe
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.pdb
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.Login.resources
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.Menu.resources
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.ForgotPassword.resources
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.Invoice.resources
+C:\Users\DAVID\source\repos\Medicine_Bank\Medicine_Bank\obj\Debug\Medicine_Bank.About_Us.resources
