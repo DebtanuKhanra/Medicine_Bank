@@ -47,6 +47,12 @@ And DataSet.Class which is the heart of the Ado.Net. <br>
 ● An employee can go directly to the billing department and create an Invoice for any drugs they discover that are stored in their database, just enter the name and quantity of that medicine, and the invoice will be produced automatically.<br>
 <br>
 
+<div align="center">
+      
+<img  height="100" width="70" src="https://user-images.githubusercontent.com/102660203/190661430-e88889b2-a3e0-4b13-951d-137f8e0bc8e3.png">
+      
+</div>
+
 
 
 
