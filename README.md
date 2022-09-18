@@ -47,9 +47,13 @@ And DataSet.Class which is the heart of the Ado.Net. <br>
 ● An employee can go directly to the billing department and create an Invoice for any drugs they discover that are stored in their database, just enter the name and quantity of that medicine, and the invoice will be produced automatically.<br>
 <br>
 
+
+
+
+
 <div align="center">
       
-<img src="https://user-images.githubusercontent.com/102660203/190662475-bd9737e5-ce46-4f08-9f10-c6b6e572e6dc.png">
+<img src="https://user-images.githubusercontent.com/102660203/190890149-4ad4c317-75ad-4a34-b82a-af87bdce0d56.png">
       
 </div>
 <br>
@@ -63,23 +67,11 @@ And DataSet.Class which is the heart of the Ado.Net. <br>
 
 
 
-<div align="center">
-      
-<img src="https://user-images.githubusercontent.com/102660203/190664263-8c345429-675d-441f-88c2-19ccc75e9b8d.png">
-      
-</div>
-<br>
-
-<div align="center">
-      
-<img  height="100" width="70" src="https://user-images.githubusercontent.com/102660203/190661430-e88889b2-a3e0-4b13-951d-137f8e0bc8e3.png">
-      
-</div>
 
 
 <div align="center">
       
-<img src="https://user-images.githubusercontent.com/102660203/190663233-ed017979-fd98-449a-a1ac-551a8c7918dd.png">
+<img src="https://user-images.githubusercontent.com/102660203/190890354-f00c72b7-a3e6-4dd0-9273-1cfad1993b44.png">
       
 </div>
 <br>
@@ -92,9 +84,15 @@ And DataSet.Class which is the heart of the Ado.Net. <br>
 
 
 
+
+
+
+
+
+
 <div align="center">
       
-<img src="https://user-images.githubusercontent.com/102660203/190663288-3848037a-4c60-4871-b175-86a0ca88a164.png">
+<img src="https://user-images.githubusercontent.com/102660203/190890377-942e9d1c-bbc9-4666-b90f-bc1b91d8674a.png">
       
 </div>
 <br>
@@ -104,6 +102,30 @@ And DataSet.Class which is the heart of the Ado.Net. <br>
 <img  height="100" width="70" src="https://user-images.githubusercontent.com/102660203/190661430-e88889b2-a3e0-4b13-951d-137f8e0bc8e3.png">
       
 </div>
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+      
+<img src="https://user-images.githubusercontent.com/102660203/190890412-e43d9803-0386-4a64-99d7-b68f590a86bd.png">
+      
+</div>
+<br>
+
+<div align="center">
+      
+<img  height="100" width="70" src="https://user-images.githubusercontent.com/102660203/190661430-e88889b2-a3e0-4b13-951d-137f8e0bc8e3.png">
+      
+</div>
+
+
 
 
 
@@ -121,6 +143,9 @@ And DataSet.Class which is the heart of the Ado.Net. <br>
 <img  height="100" width="70" src="https://user-images.githubusercontent.com/102660203/190661430-e88889b2-a3e0-4b13-951d-137f8e0bc8e3.png">
       
 </div>
+
+
+
 
 
 
@@ -143,7 +168,7 @@ And DataSet.Class which is the heart of the Ado.Net. <br>
 
 <div align="center">
       
-<img src="https://user-images.githubusercontent.com/102660203/190663550-2bfa91bc-bc52-4eeb-bdbd-a486e81ac011.png">
+<img src="https://user-images.githubusercontent.com/102660203/190890443-d5c40b70-f9cb-4266-a51d-69ef069351e6.png">
       
 </div>
 <br>
